@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Don't sensitive data on github
+# Don't put sensitive data on github
 responses.txt
