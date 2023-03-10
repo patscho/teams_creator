@@ -6,6 +6,14 @@ TEAM_SIZE = 5
 
 
 def read_input(filename):
+    """
+    Returns a list with raw name input.
+    Reads the input from file. Split each line on tab and only use the first part.
+
+    Example a line:
+        Graaff, B. de (Bas)	Optional Attendee	Accepted
+    will be split and the part 'Graaff, B. de (Bas)' is used and added to the list.
+    """
     with open(filename) as file:
         my_input = [
             line.strip().split("\t")[0]

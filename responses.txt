@@ -1,0 +1,108 @@
+Name	Attendance	Response
+GITEO Fun Squad	Meeting Organizer	None
+ML-Tech-Infra-GITEO	Required Attendee	None
+Graaff, B. de (Bas)	Optional Attendee	Accepted
+Klerk, E.J. de (Eric-Jan)	Optional Attendee	Accepted
+Gutu, N.G. (Nicolae - Dragos)	Optional Attendee	Accepted
+Lakhloufi, S. (Said)	Optional Attendee	Accepted
+Farrahi, S. (Said)	Optional Attendee	Accepted
+Rikxoort, R.P. van (Ronald)	Optional Attendee	Accepted
+Scholten, P.A. (Patrick)	Optional Attendee	Accepted
+Sarmiento, Jaybee	Optional Attendee	Accepted
+Sent, P.M. (Peter)	Optional Attendee	Declined
+Akkerman, R. (Ron)	Optional Attendee	Accepted
+Laysa, Ma. Charisse	Optional Attendee	Accepted
+Vark, R.J. van (Robert)	Optional Attendee	Accepted
+Calosa, Katherine	Optional Attendee	Accepted
+Bombio, Michael John	Optional Attendee	Accepted
+Stawowy, M. (Marek)	Optional Attendee	Declined
+Zee, M. van der (Marcel)	Optional Attendee	Declined
+Hoogh, M.X. de (Michel)	Optional Attendee	Declined
+Zehra, M. (Midhat)	Optional Attendee	Accepted
+Ploeg, M.G. van der (Milko)	Optional Attendee	Accepted
+Garnier, R.S. (Raymond)	Optional Attendee	Declined
+Strating, A.G. (Arjan)	Optional Attendee	Declined
+Borst, S. (Savannah)	Optional Attendee	Accepted
+Pijls, H.M.J. (Erik)	Optional Attendee	Declined
+Eichelsheim, P.A. (Peter)	Optional Attendee	Accepted
+Kwik, M.J. (Mathijs)	Optional Attendee	Declined
+Savchenko, A. (Andrii)	Optional Attendee	Accepted
+Zwieten, L. van (Laurens)	Optional Attendee	Declined
+Visser, S.J. (Sebastiaan)	Optional Attendee	Declined
+Dussen, R.P. van der (Robert)	Optional Attendee	Declined
+Westrop, R. van (Rudy)	Optional Attendee	Declined
+Weetering, Y. van de (Yvonne)	Optional Attendee	Accepted
+Martis, D.M. (Demelza)	Optional Attendee	Accepted
+Berg, I.R.D. van den (Ino)	Optional Attendee	Accepted
+Drop, J. (Jasper)	Optional Attendee	Declined
+Schuring, R.M. (Rogier)	Optional Attendee	Accepted
+Hagenaar, J. (Jaap)	Optional Attendee	Accepted
+Wyk, H. van (Henning)	Optional Attendee	Declined
+Vroegop, M.R. (Mark)	Optional Attendee	Accepted
+Slot, M.J.A. van der (Marco)	Optional Attendee	Accepted
+Haaijen, E.M. (Erik Marius)	Optional Attendee	Accepted
+Vivero, Tiffany Lalaine	Optional Attendee	Accepted
+Manalang, Joyce Caroline	Optional Attendee	Declined
+Aposaga, Charles Francis	Optional Attendee	Accepted
+Bulthuis, C.M. (Chris)	Optional Attendee	Accepted
+Samal, S. (Sambit)	Optional Attendee	Accepted
+Aviv, I. (Ido)	Optional Attendee	Accepted
+Verhoeven, L.A.R. (Albert)	Optional Attendee	Accepted
+Bartels, C.J. (Chris)	Optional Attendee	Accepted
+Wonink, D. (Daniel)	Optional Attendee	Declined
+Blom, J. (Job)	Optional Attendee	Declined
+ROGUŚ, J. (JAKUB)	Optional Attendee	Declined
+KAŹMIERKIEWICZ, K. (KONRAD)	Optional Attendee	Declined
+Oujjit, N. (Nour)	Optional Attendee	Declined
+Jonker, H.V. (Harmen)	Optional Attendee	Declined
+Krassen, C. (Cindy)	Optional Attendee	Accepted
+Dollart, R.M. (Ryan)	Optional Attendee	Declined
+Maas, R. (Ron)	Optional Attendee	Declined
+Derakhshan, M. (Mohammad-Ali)	Optional Attendee	Declined
+Bemmel, V. van (Vera)	Optional Attendee	Declined
+Kulej, S. (Sebastian)	Optional Attendee	Declined
+Dogan, B. (Baris)	Optional Attendee	Declined
+Krijger, Q. (Quinten)	Optional Attendee	Declined
+Adamczewska, Marta	Optional Attendee	Declined
+Somer, R.R.M. (Rashid)	Optional Attendee	Declined
+Oprea, O. (Oana)	Optional Attendee	Declined
+Aalst, N.C. van (Nicole)	Optional Attendee	Declined
+Pelit, N. (Nevra)	Optional Attendee	Declined
+Rodriguez Barreiro, J. (Jorge)	Optional Attendee	Declined
+Dijk, R.T.M. van (Rene)	Optional Attendee	Accepted
+Frenzel, Dennis	Optional Attendee	Declined
+Jong, F.N. de (Floor)	Optional Attendee	Accepted
+Begia, A. (Antigoni)	Optional Attendee	Accepted
+Santos, Pearl Jen	Optional Attendee	Accepted
+Zandbergen, L. (Bert)	Optional Attendee	Declined
+Onderwijzer, R. (Rob)	Optional Attendee	Declined
+Pohlmann, M.A.M. (Mischa)	Optional Attendee	Accepted
+Hamm, T. (Thomas)	Optional Attendee	Declined
+Groot, J.H.P. de (Jeroen)	Optional Attendee	Declined
+Stroe, M. van (Marcel)	Optional Attendee	Declined
+Stroombergen, E.J. (Erwin)	Optional Attendee	Accepted
+Knoppert, E.J. (Erik)	Optional Attendee	Declined
+Slot, J. (Jeroen)	Optional Attendee	Accepted
+Doroftei, O. (Olivian)	Optional Attendee	Accepted
+Kapel, E. (Eileen)	Optional Attendee	Accepted
+Bearda, R.A. (Robert)	Optional Attendee	Accepted
+Putten, A.A.P. van (Ton)	Optional Attendee	Accepted
+SMOŁKA, J. (JAKUB)	Optional Attendee	Declined
+TRAWIŃSKI, A. (ARKADIUSZ)	Optional Attendee	Declined
+Suznjevic, S. (Srecko)	Optional Attendee	Declined
+Liefheid, T. (Tom)	Optional Attendee	Declined
+Soesman, J.C. (Joyce)	Optional Attendee	Declined
+Pallapolla, T. (Thulasiramudu)	Optional Attendee	Accepted
+Velcea, B.N. (Bogdan - Nicolae)	Optional Attendee	Accepted
+Cop, A.C. (Allan)	Optional Attendee	Accepted
+Sadia, Vina Grace	Optional Attendee	Declined
+Boogmans, S. (Sven)	Optional Attendee	Declined
+Bruggeling, K. (Koyan)	Optional Attendee	Accepted
+Mark, R.M. van der (Rene)	Optional Attendee	Declined
+Bins, W. (Wilco)	Optional Attendee	Declined
+ML-Tech-Infra-GITEO-chapter-servicenow1	Optional Attendee	None
+Dokter, D.J. (Danny)	Optional Attendee	Accepted
+Visser, R. de (Rene)	Optional Attendee	Accepted
+Fabricante, Kristoffer Magic	Optional Attendee	Accepted
+Mishra, N. (Nikita)	Optional Attendee	Accepted
+Niedziela, S.P. (Szymon)	Optional Attendee	Accepted
