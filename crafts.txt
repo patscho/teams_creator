@@ -1,0 +1,56 @@
+artists
+Astronauts
+chefs
+Construction workers
+firefighters
+doctors
+police
+teachers
+Nurses
+veterinarians
+actresses
+architects
+singers
+dentists
+detectives
+writers
+farmers
+pilots
+engineers
+accountants
+butchers
+cashiers
+barbers
+carpenters
+lifeguards
+electricians
+flight attendants
+plumbers
+receptionists
+researchers
+scientists
+lawyers
+bus drivers
+designers
+journalists
+photographers
+musicians
+painters
+florists
+sales assistants
+mechanics
+models
+shop assistants
+politicians
+translators
+hairdressers
+taxi drivers
+pharmacists
+travel agents
+cleaners
+biologists
+dancers
+gardeners
+meteorologists
+programmers
+tourist guides
