@@ -3,6 +3,26 @@ import random
 
 
 class Teams:
+    """
+    A class to represent a collection of teams. Participants will be evenly distributed
+    over a number of teams depending on the number of participants and the required team size.
+
+    ...
+
+    Attributes
+    ----------
+    participants : list
+        all particants
+    team_size : int
+        the minimum number of people in a team. if the team size is five and the number
+        of participants is 53 there will be seven teams of five and three teams of six.
+
+    Methods
+    -------
+    None
+
+    """
+
     def __init__(self, participants: list[Participant], team_size: int) -> None:
         self.teams = []
         random.shuffle(participants)
